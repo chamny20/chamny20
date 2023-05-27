@@ -17,7 +17,7 @@
 # About Me
 
 ![Notion](http://img.shields.io/badge/-Notion-black?style=for-the-badge&logo=notion)
-<img alt="Instagram" src ="https://img.shields.io/badge/Instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>
+<img alt="Instagram" src ="https://img.shields.io/badge/Instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" href="https://www.instagram.com/2cham_ny/" />
 
 
 <!--
