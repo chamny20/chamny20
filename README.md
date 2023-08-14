@@ -19,9 +19,9 @@
 ![Notion](http://img.shields.io/badge/-Notion-black?style=for-the-badge&logo=notion)
 <a href="https://www.instagram.com/2cham_ny/">
 <img alt="Instagram" src ="https://img.shields.io/badge/Instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
-
+<!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chamny20&theme=buefy&show_icons=true)
-
+-->
 <!--
 **chamny20/chamny20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
