@@ -1,3 +1,6 @@
+## Preparing ... 🛠 🛠 🛠
+
+<!--
 ##### 👩🏻‍💻 유저들에게 최적의 UX를 제공하고자 노력하는 웹 프론트엔드 개발자 이채민입니다.
 ##### ✍🏻 꾸준히 성장하고, 끊임없이 배우고 싶습니다.
 
@@ -22,6 +25,9 @@
 ![Notion](http://img.shields.io/badge/-Notion-black?style=for-the-badge&logo=notion)
 <a href="https://www.instagram.com/2cham_ny/">
 <img alt="Instagram" src ="https://img.shields.io/badge/Instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
+
+-->
+
 <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chamny20&theme=buefy&show_icons=true)
 -->
@@ -39,3 +45,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
