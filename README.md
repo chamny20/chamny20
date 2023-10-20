@@ -1,4 +1,4 @@
-## Preparing . . . 🛠 🛠 🛠
+![header](https://capsule-render.vercel.app/api?type=waving&color=000000&height=150&section=header&text=ChaeminLee&fontColor=ffffff&fontSize=70&animation=twinkling)
 
 <!--
 ##### 👩🏻‍💻 유저들에게 최적의 UX를 제공하고자 노력하는 웹 프론트엔드 개발자 이채민입니다.
