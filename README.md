@@ -31,7 +31,7 @@
 
 <br />
 
-﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chamny20&langs_count=10&layout=compact)](https://github.com/chamny20)﻿
+<!--﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chamny20&langs_count=10&layout=compact)](https://github.com/chamny20)﻿-->
 
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=000000&height=150&section=footer)
