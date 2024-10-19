@@ -1,9 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=000000&height=150&section=header&text=ChaeminLee&fontColor=ffffff&fontAlignY=35&fontSize=50&animation=twinkling)
 
 ## I AM
-#### 👩🏻‍💻 I'm Chaemin Lee, and I wanna be a frontend developer.
-#### 🔥 I'm trying to provide optimal UX to users.
-#### ✍🏻 I want to continue to grow and learn constantly.
+##### ✍🏻 기록하며 성장하는 걸 좋아합니다.
+##### 👩🏻‍💻 프론트엔드 개발과 테스팅을 공부하고 있습니다.
+##### 🗣️ 고객지향 접근방식에 관심이 많습니다.
+
 
 <br />
 
@@ -26,16 +26,13 @@
 <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"> 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/>
+<img src="https://img.shields.io/badge/jest-C21325?style=flat-square&logo=jest&logoColor=white"/>
 
 
 
 <br />
 
 <!--﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chamny20&langs_count=10&layout=compact)](https://github.com/chamny20)﻿-->
-
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=000000&height=150&section=footer)
-
 <!--![Chamny20's Github stats](https://github-readme-stats.vercel.app/api?username=chamny20&show_icons=true)-->
 
 <!--
