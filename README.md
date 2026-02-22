@@ -1,15 +1,10 @@
 
-## I AM
-👩🏻‍💻 **사용자의 시선**으로 개발하고자 합니다.
-<br/>
-✍🏻 **기록하며 성장**하는 걸 좋아합니다.
-<br/>
-🗣️ **고객지향 접근방식**에 관심이 많습니다.
 
-<br />
 
-## TECH STACK
-<img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> 
+
+
+## Tech Stack
+<!-- <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> 
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"> 
 <img src="https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> 
@@ -28,11 +23,27 @@
 <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"> 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/>
-<img src="https://img.shields.io/badge/jest-C21325?style=flat-square&logo=jest&logoColor=white"/>
+<img src="https://img.shields.io/badge/jest-C21325?style=flat-square&logo=jest&logoColor=white"/> -->
+
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,styledcomponents,emotion,jest,figma&theme=dark)](https://skillicons.dev)
+
+## Experiences
+
+- **@NAVER Boostcamp Web·Mobile** | 10th Cohort – Web Full-stack Camper `Jun 2025 – Feb 2026`
+- **@PTKOREA** | PRO Intern `Jun 2025 – Jul 2025`
+- **@Labrador Labs** | Web Frontend Intern `Jan 2024 – Jun 2024`
+- **@KUSITMS (Korean University Students IT, Management Society)** | 28th & 29th Cohort – Frontend Member `Aug 2023 – Jun 2024`
+- **@DND** | 10th Cohort – Frontend Member `Jan 2024 – Feb 2024`
+- **@Do-iT (Development Club, Ajou University)** | Operations Executive `Mar 2022 - Dec 2023`
 
 
+## Certificates
+- Information Processing Engineer `Dec 2024`  
+- SQL Developer (SQLD) `Sep 2025`  
+- TOPCIT Lv.3 `Nov 2024`
 
 <br />
+
 
 <!--﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chamny20&langs_count=10&layout=compact)](https://github.com/chamny20)﻿-->
 <!--![Chamny20's Github stats](https://github-readme-stats.vercel.app/api?username=chamny20&show_icons=true)-->
