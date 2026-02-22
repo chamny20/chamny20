@@ -42,7 +42,6 @@
 - SQL Developer (SQLD) `Sep 2025`  
 - TOPCIT Lv.3 `Nov 2024`
 
-<br />
 
 
 <!--﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chamny20&langs_count=10&layout=compact)](https://github.com/chamny20)﻿-->
