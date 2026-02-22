@@ -30,7 +30,7 @@
 ## Experiences
 
 - **@NAVER Boostcamp Web·Mobile** | 10th Cohort – Web Full-stack Camper `Jun 2025 – Feb 2026`
-- **@PTKOREA** | PRO Intern `Jun 2025 – Jul 2025`
+- **@PTKOREA** | PRO Intern `Apr 2025 – Jul 2025`
 - **@Labrador Labs** | Web Frontend Intern `Jan 2024 – Jun 2024`
 - **@KUSITMS (Korean University Students IT, Management Society)** | 28th & 29th Cohort – Frontend Member `Aug 2023 – Jun 2024`
 - **@DND** | 10th Cohort – Frontend Member `Jan 2024 – Feb 2024`
